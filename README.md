@@ -10,5 +10,4 @@ This project involves fetching and analyzing historical weather data using the *
 - Parse and clean JSON data using **pandas**.
 - Perform exploratory data analysis and visualization.
 - Compare weather patterns between different locations.
-- Provide exercises for further practice, along with detailed solutions.
 
