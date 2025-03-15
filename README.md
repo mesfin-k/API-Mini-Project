@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# API-Mini-Project
-=======
-<<<<<<< HEAD
 # API-Mini-Project
 =======
 # API Data Wrangling with Open-Meteo
