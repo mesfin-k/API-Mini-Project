@@ -11,5 +11,4 @@ This project involves fetching and analyzing historical weather data using the *
 - Perform exploratory data analysis and visualization.
 - Compare weather patterns between different locations.
 - Provide exercises for further practice, along with detailed solutions.
->>>>>>> c74fb45 (Added API Mini-Project files)
->>>>>>> 818a9ed (Initial commit: API Mini-Project)
+
