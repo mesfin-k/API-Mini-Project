@@ -1,5 +1,5 @@
 # API-Mini-Project
-=======
+
 # API Data Wrangling with Open-Meteo
 
 ## Overview
